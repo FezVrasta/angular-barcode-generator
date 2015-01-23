@@ -1,0 +1,8 @@
+{
+  "name": "angular-barcode-generator",
+  "version": "0.0.0",
+  "main": ["./angular-barcode-generator/barcodeGenerator.js", "./angular-barcode-generator/barcode.css"],
+  "ignore": [],
+  "dependencies": {},
+  "homepage": "https://github.com/zhuk-aa/angular-barcode-generator",
+}
