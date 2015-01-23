@@ -4,5 +4,5 @@
   "main": ["./angular-barcode-generator/barcodeGenerator.js", "./angular-barcode-generator/barcode.css"],
   "ignore": [],
   "dependencies": {},
-  "homepage": "https://github.com/zhuk-aa/angular-barcode-generator",
+  "homepage": "https://github.com/zhuk-aa/angular-barcode-generator"
 }
